@@ -1,5 +1,5 @@
-# Jorge (Puerino) - URL de Suporte
-Site usado no app puerino, do jorge, para um usuário solicitar a remoção de seus dados.
+# Luiz e Ícaro (Meu Kiosk) - URL de Suporte
+Site usado no app Meu Kiosk, do Luiz e Ícaro, para um usuário solicitar a remoção de seus dados.
 
 ## Como faço uma página igual para meu app?
 
